@@ -2,6 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://emilia84.github.io/Unibites/",
   "dependencies": {
     "@google-pay/button-react": "^3.0.0",
     "@hookform/resolvers": "^2.8.5",
