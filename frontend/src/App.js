@@ -1,6 +1,6 @@
 import React, { Fragment } from 'react'
 import Home from './pages/Home'
-import {BrowserRouter as Router,Route, Routes } from 'react-router-dom'
+import {HashRouter as Router,Route, Routes } from 'react-router-dom'
 import './styles/index.css'
 import Cart from './pages/Cart'
 import Signin from './pages/Signin'
